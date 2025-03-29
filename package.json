@@ -1,7 +1,7 @@
 {
-  "name": "portifolio",
+  "name": "portfolio",
   "version": "1.0.0",
-  "description": "Responsive portifolio",
+  "description": "Responsive portfolio",
   "main": "index.js",
   "scripts": {
     "sass": "sass src/scss:dist/css --watch",
@@ -9,7 +9,7 @@
   },
   "author": "Prem Chand Maddela",
   "license": "MIT",
-  "homepage": "https://premmaddela.github.io/portifolio/",
+  "homepage": "https://premmaddela.github.io/portfolio/",
   "dependencies": {
     "gh-pages": "^6.3.0"
   },
